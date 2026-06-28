@@ -5,7 +5,7 @@ title: "박원태 — Future CV (Data Engineer)"
 
 # 박원태 (Wontae Park) — Future CV
 
-> ⚠️ **본 문서는 가상의 미래 이력서(Future CV / Future Resume)입니다.**
+> 본 문서는 가상의 미래 이력서(Future CV / Future Resume)입니다.
 > 실제 경력을 그대로 나타내는 문서가 아니라, *내일 졸업한다고 가정했을 때*의 목표와 성장 방향을 담은 이력서입니다. 아래의 인턴 경력·프로젝트·자격증·수상 내역 등은 모두 가상으로 작성된 내용입니다.
 
 **희망 직무 : 데이터 엔지니어 (Data Engineer) · 데이터 플랫폼 엔지니어**
@@ -14,7 +14,7 @@ title: "박원태 — Future CV (Data Engineer)"
 
 ## Contact
 
-- **Email** : [buzz0114@gmail.com](mailto:buzz0114@gmail.com)
+- **Email** : [buzz010114@gmail.com](mailto:buzz010114@gmail.com)
 - **GitHub** : [github.com/wtpark](https://github.com/wtpark)
 - **Location** : Seoul, Republic of Korea
 
@@ -22,9 +22,9 @@ title: "박원태 — Future CV (Data Engineer)"
 
 ## Summary
 
-데이터를 수집하고 정리하는 수준을 넘어, **실제 의사결정에 연결되는 데이터 시스템을 설계**하고 싶은 예비 데이터 전문가입니다. 정보융합학부에서 데이터 분석, 머신러닝, 오픈소스 소프트웨어, 클라우드 환경을 학습하며, 문제를 구조화하고 재현 가능한 결과물로 만드는 역량을 키웠습니다.
+데이터를 단순히 분석하는 것에서 끝내지 않고, 데이터를 안정적으로 수집하고 정리해서 실제 서비스나 의사결정에 활용할 수 있도록 만드는 일에 관심이 있습니다.
 
-졸업 시점에는 단순히 모델을 만드는 사람이 아니라, **데이터 파이프라인 · 분석 모델 · 서비스 배포까지 연결할 수 있는 실무형 데이터 엔지니어**로 성장해 있는 것을 목표로 합니다.
+정보융합학부에서 데이터 분석, 머신러닝, 오픈소스 소프트웨어, 데이터베이스 관련 과목을 학습했고, Python과 SQL을 중심으로 데이터를 다루는 연습을 해왔습니다. 졸업 시점에는 분석 코드뿐 아니라 데이터 파이프라인, 문서화, 협업 방식까지 함께 이해하는 데이터 엔지니어로 성장하는 것을 목표로 하고 있습니다.
 
 ---
 
@@ -117,10 +117,9 @@ Markdown 기반 문서와 Python 시각화 결과를 정리하여 GitHub Pages�
 
 ## Awards
 
-- **2026 Kwangwoon Data Analysis Competition** — Excellence Award
-- **2026 Open Source Software Practice Project** — Best Documentation Award
+- **2026 Kwangwoon University MATCH-UP Advanced Program Competition — Wearable Robotics Track ** — Excellence Award, Report Category
+- - **2026 Kwangwoon University MATCH-UP Advanced Program Competition — Wearable Robotics Track ** — Honorable Mention, Poster Category
 - **2025 University AI Hackathon** — Finalist
-- **2025 Text Mining Team Project** — Outstanding Project Award
 
 ---
 
@@ -135,7 +134,7 @@ Markdown 기반 문서와 Python 시각화 결과를 정리하여 GitHub Pages�
 
 ## Future Goal
 
-졸업 후에는 **데이터 분석과 데이터 엔지니어링을 모두 이해하는 인재**로 성장하고 싶습니다. 단기적으로는 SQL, Python, 클라우드 기반 데이터 파이프라인 역량을 강화하고, 장기적으로는 AI 서비스를 안정적으로 운영할 수 있는 **데이터 플랫폼 엔지니어**가 되는 것이 목표입니다.
+졸업 후에는 데이터 분석과 데이터 엔지니어링을 함께 이해하는 사람이 되고 싶습니다. 단기적으로는 SQL, Python, Git, Linux 사용 능력을 더 안정적으로 만들고, 장기적으로는 데이터를 수집하고 처리하는 과정을 책임질 수 있는 데이터 엔지니어로 성장하는 것이 목표입니다.
 
 ---
 
