@@ -117,9 +117,10 @@ Markdown 기반 문서와 Python 시각화 결과를 정리하여 GitHub Pages�
 
 ## Awards
 
-- **2026 Kwangwoon University MATCH-UP Advanced Program Competition — Wearable Robotics Track ** — Excellence Award, Report Category
-- **2026 Kwangwoon University MATCH-UP Advanced Program Competition — Wearable Robotics Track ** — Honorable Mention, Poster Category
-- **2025 University AI Hackathon** — Finalist
+- **광운대 MATCH-UP 심화과정 경진대회 — 웨어러블 로봇 부문**  
+  *Kwangwoon University MATCH-UP Advanced Program Competition — Wearable Robotics Track*  
+  - 보고서 분야 최우수상 *(Excellence Award, Report Category)*
+  - 포스터 분야 장려상 *(Honorable Mention, Poster Category)*
 
 ---
 
